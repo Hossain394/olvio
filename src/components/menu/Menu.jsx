@@ -17,6 +17,7 @@ const Menu = () => {
             <a href="#">Shop</a>
             <a href="#">Community</a>
             <a href="#">About</a>
+            <a href="#">Contact</a>
             <a href="#">Help</a>
           </Nav>
            <div className="download">
