@@ -1,0 +1,62 @@
+.baanner {
+    background: url(../../assets/banner.jpg);
+    padding: 300px 0px;
+}
+#banner{
+    background-color:#5454;
+}
+.banner_text h3{
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 100%;
+    color: #474747;
+    padding-top: 182px;
+}
+.banner_text h1{
+    font-size: 85px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 100%;
+    color: #181818;
+    
+}
+.banner_text p{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 30px;
+    color: #757575;
+    
+}
+.banner_text a{
+    padding: 17px 17px;
+    background-color: #FD6E0A;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+    
+}
+.iconone{
+    padding-right: 5px;
+    font-size: 20px;
+}
+.banner_text{
+    position: relative;
+}
+.banner_text h5{
+    position: absolute;
+    top: 390px;
+    left: 220px;
+    padding: 17px 17px;
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+}
+.banner_img img{
+    height: 500px;
+    width: 400px;
+    
+}
